@@ -51,3 +51,9 @@ Run the stocks report:
 
 python app/stocks.py
 ```
+
+Run the RPS game:
+
+```sh
+python app/rps.py
+```
