@@ -14,6 +14,7 @@ Activate the environment (whenever you come back to this project):
 conda activate reports-env-2024 
 ```
 
+
 Install packages
 
 ```sh
@@ -69,3 +70,4 @@ Run tests:
 ```sh
 pytest
 ```
+
