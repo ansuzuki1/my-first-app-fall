@@ -11,3 +11,7 @@ pandas
 pytest  
 
 flask
+
+# used in production to run our web app:
+gunicorn
+
